@@ -1,0 +1,99 @@
+
+
+====================
+OCR Run: 2026-01-11 12:14:14
+====================
+
+--- File: TEST1.jpg ---
+HELLO WELCOME TO
+NOVITECH RESEARCH AND DEVELOPMENT
+
+
+--- File: TEST2.jpg ---
+HELLO PARTICIPANTS,
+WELCOME TO THE 30 DAYS
+ARTIFICIAL INTELLIGENCE CHALLENGE
+
+
+--- File: TEST3.jpg ---
+We don’t have
+a great day,
+
+we make it
+a great day!
+
+Frosty Westering
+
+ 
+
+
+
+====================
+OCR Run: 2026-01-11 12:17:02
+====================
+
+--- File: TEST1.jpg ---
+HELLO WELCOME TO
+NOVITECH RESEARCH AND DEVELOPMENT
+
+
+--- File: TEST2.jpg ---
+HELLO PARTICIPANTS,
+WELCOME TO THE 30 DAYS
+ARTIFICIAL INTELLIGENCE CHALLENGE
+
+
+--- File: TEST3.jpg ---
+We don’t have
+a great day,
+
+we make it
+a great day!
+
+Frosty Westering
+
+ 
+
+
+
+====================
+OCR Run: 2026-01-11 12:19:36
+====================
+
+--- File: Screenshot 2026-01-11 121849.png ---
+ 
+
+ 
+
+ 
+
+ 
+
+‘Love you baby
+Clanjaatemelaalaare)
+Ko) VoMVelumsye)
+aaleleramalerexone
+
+
+--- File: TEST1.jpg ---
+HELLO WELCOME TO
+NOVITECH RESEARCH AND DEVELOPMENT
+
+
+--- File: TEST2.jpg ---
+HELLO PARTICIPANTS,
+WELCOME TO THE 30 DAYS
+ARTIFICIAL INTELLIGENCE CHALLENGE
+
+
+--- File: TEST3.jpg ---
+We don’t have
+a great day,
+
+we make it
+a great day!
+
+Frosty Westering
+
+ 
+

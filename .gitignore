@@ -1,0 +1,53 @@
+# Images (Case-insensitive)
+*.[jJ][pP][gG]
+*.[jJ][pP][eE][gG]
+*.[pP][nN][gG]
+*.[gG][iI][fF]
+*.[bB][mM][pP]
+*.[tT][iI][fF][fF]
+*.[wW][eE][bB][pP]
+
+# Binary Models and Data
+*.[hH]5
+*.[hH]5.*
+*.[dD][aA][tT]
+*.[bB][zZ]2
+*.[xX][lL][sS][xX]
+*.[pP][aA][rR][tT]*
+*.[pP][kK][lL]
+*.[wW][eE][iI][gG][hH][tT][sS]
+*.[cC][aA][fF][fF][eE][mM][oO][dD][eE][lL]
+*.[tT]7
+*.[pP][rR][oO][tT][oO]
+*.[pP][rR][oO][tT][oO][tT][xX][tT]
+*.[pP][bB]
+*.[pP][tT]
+*.[oO][nN][nN][xX]
+*.[zZ][iI][pP]
+*.[rR][aA][rR]
+*.[7][zZ]
+*.[eE][xX][eE]
+*.[dD][lL][lL]
+*.[sS][oO]
+*.[bB][iI][nN]
+*.[mM][oO][dD][eE][lL]
+*.[nN][pP][yY]
+*.[nN][pP][zZ]
+
+# Entire Folders
+**/__pycache__/
+**/.ipynb_checkpoints/
+**/.venv/
+**/venv/
+**/env/
+**/dataset/
+**/train/
+**/test/
+
+# System
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Projects to ignore
+mcp001/
